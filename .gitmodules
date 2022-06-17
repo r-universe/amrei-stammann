@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "alpaca"]
+	path = alpaca
+	url = https://github.com/amrei-stammann/alpaca
+	shallow = true
+	registered = true
+[submodule "bife"]
+	path = bife
+	url = https://github.com/amrei-stammann/bife
+	shallow = true
+	registered = true

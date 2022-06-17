@@ -1,0 +1,10 @@
+[
+  {
+    "package": "alpaca",
+    "oncran": true
+  },
+  {
+    "package": "bife",
+    "oncran": true
+  }
+]
