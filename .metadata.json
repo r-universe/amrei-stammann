@@ -1,10 +1,10 @@
 [
   {
-    "package": "bife",
+    "package": "alpaca",
     "oncran": true
   },
   {
-    "package": "alpaca",
+    "package": "bife",
     "oncran": true
   }
 ]
